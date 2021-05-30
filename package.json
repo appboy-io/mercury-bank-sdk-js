@@ -1,0 +1,15 @@
+{
+  "name": "mercury_sdk",
+  "version": "1.0.0",
+  "description": "SDK in JS for Mercury Bank API",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Mercury",
+    "Bank"
+  ],
+  "author": "Bryan Riley",
+  "license": "MIT"
+}
